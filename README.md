@@ -10,7 +10,7 @@
 
 ~~A terrible programmer~~ A moderately less terrible programmer 👍
 
-A.k.a. **Prof. 猪** in [HM University](https://github.com/HMUniversity).
+Studying at [Alleyn's](https://alleyns.com).
 
 - :hammer_and_pick: C++ & ~~Markdown~~. Qt.
 - 🪟-11 & Arch Linux & KDE & VS Code & Iosevka / JetBrains Mono.
