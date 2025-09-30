@@ -12,13 +12,13 @@
 
 Studying at [Alleyn's](https://alleyns.com).
 
-![My Languages](https://skillicons.dev/icons?i=cpp,css,html,py) - Languages
+![My Languages](https://skillicons.dev/icons?i=cpp,css,html,py) - Languages :computer_mouse:
 
-![My OS(s)](https://skillicons.dev/icons?i=windows,arch) - OS(s)
+![My OS(s)](https://skillicons.dev/icons?i=windows,arch) - OS(s) :window:
 
-![My Platforms](https://skillicons.dev/icons?i=blender,docker,unity,unreal,ai,ps) - Platforms
+![My Platforms](https://skillicons.dev/icons?i=blender,docker,unity,unreal,ai,ps) - Platforms :desktop_computer:
 
-![My Hardware](https://skillicons.dev/icons?i=arduino,raspberrypi) - Hardware
+![My Hardware](https://skillicons.dev/icons?i=arduino,raspberrypi) - Hardware :hammer_and_wrench:
 
 :email: `fonggregory@outlook.com` :email:
 
