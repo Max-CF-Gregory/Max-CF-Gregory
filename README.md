@@ -1,4 +1,4 @@
-![banner](Banner1.jpg)
+![banner](Banner2.jpg)
 
 ## I'm Max Gregory! :wave:
 
