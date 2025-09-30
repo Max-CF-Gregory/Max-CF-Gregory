@@ -8,7 +8,7 @@
 
 🎊 Hello world!
 
-~~A rookie OIer~~已跑路。 🚀🥬 ISFJ-T.
+~~A terrible programmer~~ A moderately less terrible programmer 👍
 
 A.k.a. **Prof. 猪** in [HM University](https://github.com/HMUniversity).
 
