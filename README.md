@@ -16,6 +16,8 @@ Studying at [Alleyn's](https://alleyns.com).
 
 [![My OS(s)](https://skillicons.dev/icons?i=windows,arch)](https://skillicons.dev) - OS(s)
 
+[![My Platforms](https://skillicons.dev/icons?i=js,html,css,wasm)] - Platforms
+
 :email: `fonggregory@outlook.com` :email:
 
 <details>
