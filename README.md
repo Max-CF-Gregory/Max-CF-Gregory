@@ -15,7 +15,8 @@ Studying at [Alleyn's](https://alleyns.com).
 [![My Languages](https://skillicons.dev/icons?i=cpp,css,html,py)](https://skillicons.dev) - Languages
 
 [![My OS(s)](https://skillicons.dev/icons?i=windows,arch)](https://skillicons.dev) - OS(s)
-- :memo: [Blog](https://blog.chungzh.cn) :card_index: [Portfolio](https://chungzh.cn) :email: `chungzh07 at gmail.com` :airplane: [Telegram](https://t.me/skyporker_channel) :inbox_tray: [Matrix](https://matrix.to/#/#zirnc-general:matrix.org) .
+
+:email: `fonggregory at outlook.com` :airplane: [Telegram](https://t.me/skyporker_channel) :inbox_tray: [Matrix](https://matrix.to/#/#zirnc-general:matrix.org) .
 - :peach: My [Scoop](https://scoop.sh) bucket [peach](https://github.com/ChungZH/peach).
 
 <details>
