@@ -16,7 +16,9 @@ Studying at [Alleyn's](https://alleyns.com).
 
 ![My OS(s)](https://skillicons.dev/icons?i=windows,arch) - OS(s)
 
-![My Platforms](https://skillicons.dev/icons?i=js,html,css,wasm) - Platforms
+![My Platforms](https://skillicons.dev/icons?i=blender,docker,unity,unreal,ai,ps) - Platforms
+
+![My Hardware](https://skillicons.dev/icons?i=arduino,raspberrypi) - Hardware
 
 :email: `fonggregory@outlook.com` :email:
 
