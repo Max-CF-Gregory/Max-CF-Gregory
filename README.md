@@ -12,11 +12,11 @@
 
 Studying at [Alleyn's](https://alleyns.com).
 
-[![My Languages](https://skillicons.dev/icons?i=cpp,css,html,py)](https://skillicons.dev) - Languages
+![My Languages](https://skillicons.dev/icons?i=cpp,css,html,py) - Languages
 
-[![My OS(s)](https://skillicons.dev/icons?i=windows,arch)](https://skillicons.dev) - OS(s)
+![My OS(s)](https://skillicons.dev/icons?i=windows,arch) - OS(s)
 
-[![My Platforms](https://skillicons.dev/icons?i=js,html,css,wasm)] - Platforms
+![My Platforms](https://skillicons.dev/icons?i=js,html,css,wasm) - Platforms
 
 :email: `fonggregory@outlook.com` :email:
 
