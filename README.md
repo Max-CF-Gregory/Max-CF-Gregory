@@ -38,4 +38,4 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/801445833047277628)](https://dev.discordprofiles.me/openspotify/276544649148235776)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/801445833047277628)](https://dev.discordprofiles.me/openspotify/801445833047277628)
