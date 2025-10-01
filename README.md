@@ -38,7 +38,7 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/801445833047277628?simple=true)
+[![status](https://api.statusbadges.me/badge/status/801445833047277628?simple=true)](https://discord.com/users/801445833047277628)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/801445833047277628)
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/801445833047277628)
 [![spotify](https://api.statusbadges.me/badge/spotify/801445833047277628)](https://api.statusbadges.me/openspotify/801445833047277628)
