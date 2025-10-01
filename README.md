@@ -28,7 +28,6 @@ Studying at [Alleyn's](https://alleyns.com).
 
 ![Max's github stats](https://github-readme-stats.vercel.app/api?username=Max-CF-Gregory&theme=vue&show_icons=true)
 
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/801445833047277628)](https://dev.discordprofiles.me/openspotify/276544649148235776)
 </details>
 
 <!--START_SECTION:waka-->
@@ -39,4 +38,4 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-###### 💾 EOF
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/801445833047277628)](https://dev.discordprofiles.me/openspotify/276544649148235776)
