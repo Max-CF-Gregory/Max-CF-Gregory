@@ -16,7 +16,7 @@ Studying at [Alleyn's](https://alleyns.com).
 
 ![My OS(s)](https://skillicons.dev/icons?i=windows,arch) - OS(s) :window:
 
-![My Platforms](https://skillicons.dev/icons?i=blender,docker,unity,unreal,ai,ps) - Platforms :desktop_computer:
+![My Platforms](https://skillicons.dev/icons?i=blender,docker,unity,unreal,ai,ps,notion) - Tools :desktop_computer:
 
 ![My Hardware](https://skillicons.dev/icons?i=arduino,raspberrypi) - Hardware :hammer_and_wrench:
 
