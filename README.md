@@ -26,7 +26,7 @@ Studying at [Alleyn's](https://alleyns.com).
 
 <summary>My GitHub Stats</summary>
 
-![ChungZH's github stats](https://github-readme-stats.vercel.app/api?username=C&theme=vue&show_icons=true)
+![ChungZH's github stats](https://github-readme-stats.vercel.app/api?username=Max-CF-Gregory&theme=vue&show_icons=true)
 
 </details>
 
